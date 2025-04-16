@@ -1,0 +1,10 @@
+[package]
+name = "panicpoint"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+zip = "0.6"
+thiserror = "1.0"
+walkdir = "2.3"  # Added for directory traversal
