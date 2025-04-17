@@ -125,23 +125,18 @@ Rust’s `Result` and the `thiserror` crate are used to handle errors gracefully
 ### Dependencies
 
 PanicPoint relies on the following Rust crates:
-
-- `pptx`: A crate to handle the creation of PowerPoint (.pptx) files.
-- `serde`: For serializing and deserializing data.
-- `regex`: For pattern matching and string manipulations.
-
+```
+chrono = "0.4"
+zip = "0.6"
+thiserror = "1.0"
+walkdir = "2.3"
+```
 These are automatically installed when you build the project with `cargo build`.
 
 ## Contribution
 
-Contributions are welcome! If you have any ideas for improvements or encounter bugs, please feel free to open an issue or submit a pull request. You can contribute to the project by following these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Make your changes.
-4. Write tests if applicable.
-5. Submit a pull request with a description of your changes.
+Contributions are welcome! If you have any ideas for improvements or encounter bugs, please feel free to open an issue or submit a pull request.
 
 ## Reporting Issues
 
-If you encounter any issues or bugs while using PanicPoint, please report them on the [GitHub Issues page](https://github.com/Malwprotector/panicpoint/issues). Provide as much detail as possible, including the version of PanicPoint, operating system, and any error messages you received.
+If you encounter any issues or bugs while using PanicPoint, please report them on the [GitHub Issues page](https://github.com/Malwprotector/panicpoint/issues).
