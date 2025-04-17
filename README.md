@@ -14,7 +14,7 @@ This project enabled me to understand how to manage XML in Rust.
     - [Build the Project](#build-the-project)
     - [Run the Application](#run-the-application)
     - [Dependencies](#dependencies)
-4. [How It Works](#how-tt-works)
+4. [How It Works](#how-it-works)
 5. [Contribution](#contribution)
 6. [Reporting Issues](#reporting-issues)
 
