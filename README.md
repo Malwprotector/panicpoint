@@ -1,6 +1,6 @@
 # PanicPoint
 
-[https://raw.githubusercontent.com/Malwprotector/panicpoint/refs/heads/main/screenshot.png](https://raw.githubusercontent.com/Malwprotector/panicpoint/refs/heads/main/screenshot.png)
+![https://raw.githubusercontent.com/Malwprotector/panicpoint/refs/heads/main/screenshot.png](https://raw.githubusercontent.com/Malwprotector/panicpoint/refs/heads/main/screenshot.png)
 
 **PanicPoint** is designed to help you quickly create presentations (PPTX files) while you're in a rush. Whether you're preparing for a sudden meeting, last-minute presentation, or any other situation where time is of the essence, PanicPoint is here !
 
