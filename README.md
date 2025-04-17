@@ -109,11 +109,7 @@ PowerPoint requires internal file linking via `.rels` files, so:
 The entire folder structure is zipped using the [`zip`](https://docs.rs/zip) crate:
 
 - A `ZipWriter` collects all files in order, preserving their relative paths.
-- The `.pptx` file is named using the current timestamp for uniqueness.
-
-```rust
-let zip_path = format!("{}.pptx", Local::now().format("%Y-%m-%d_%H-%M-%S"));
-```
+- The `.pptx` file is created.
 
 ### 6. 🧹 Cleanup and Feedback
 
