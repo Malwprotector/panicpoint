@@ -124,13 +124,7 @@ After generating the file:
 
 ### 🛡️ Error Handling
 
-Rust’s `Result` and the `thiserror` crate are used to handle errors gracefully, providing:
-
-- Custom error messages for:
-  - IO errors
-  - Zip compression issues
-  - Path resolution errors
-- Immediate exit with feedback if a critical error occurs.
+Rust’s `Result` and the `thiserror` crate are used to handle errors gracefully.
 
 ### Dependencies
 
