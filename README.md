@@ -65,7 +65,7 @@ Once the build is complete, you can run PanicPoint:
 
 ## How It Works
 
-**PanicPoint** is written in Rust and focuses on quickly generating `.pptx` (PowerPoint) files from user input directly in the terminal. Here's a breakdown of how the tool works and how Rust features are leveraged:
+Here's a breakdown of how PanicPoint works and how Rust features are leveraged:
 
 ### 1. 🧠 Input Handling
 
