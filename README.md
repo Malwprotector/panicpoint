@@ -41,6 +41,8 @@ chmod +x panicpoint
 
 ### Prerequisites
 
+- **This is the steps to build PanicPoint on Linux.** It's pretty similar on windows, but some things may be different : please refer to [Rust docs.](https://doc.rust-lang.org/stable/)
+
 Before you install PanicPoint, ensure you have the following installed:
 
 - **Rust** (version 1.80.0 or later): You can install Rust from [https://www.rust-lang.org/](https://www.rust-lang.org/).
