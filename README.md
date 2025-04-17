@@ -43,7 +43,7 @@ chmod +x panicpoint
 
 Before you install PanicPoint, ensure you have the following installed:
 
-- **Rust** (version 1.60.0 or later): You can install Rust from [https://www.rust-lang.org/](https://www.rust-lang.org/).
+- **Rust** (version 1.80.0 or later): You can install Rust from [https://www.rust-lang.org/](https://www.rust-lang.org/).
 
 ### Clone the Repository
 
