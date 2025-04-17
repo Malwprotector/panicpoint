@@ -29,7 +29,7 @@ This project enabled me to understand how to manage XML in Rust.
 Choose your platform to download the correct build:
 
 - 🪟 **[Download for Windows (EXE)](https://github.com/Malwprotector/panicpoint/raw/refs/heads/main/target/x86_64-pc-windows-gnu/release/panicpoint.exe)**
-- 🐧 **[Download for Linux (ELF)](https://github.com/Malwprotector/panicpoint/raw/refs/heads/main/target/release/panicpoint)**
+- 🐧 **[Download for Linux](https://github.com/Malwprotector/panicpoint/raw/refs/heads/main/target/release/panicpoint)**
 
 Make sure to mark the file as executable on Linux:
 
